@@ -1,0 +1,8 @@
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\T4.2\bin\Debug\T4.2.exe.config
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\T4.2\bin\Debug\T4.2.exe
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\T4.2\bin\Debug\T4.2.pdb
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\T4.2\obj\Debug\T4.2.csproj.AssemblyReference.cache
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\T4.2\obj\Debug\T4.2.csproj.SuggestedBindingRedirects.cache
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\T4.2\obj\Debug\T4.2.csproj.CoreCompileInputs.cache
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\T4.2\obj\Debug\T4.2.exe
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\T4.2\obj\Debug\T4.2.pdb
