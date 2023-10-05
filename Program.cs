@@ -14,7 +14,7 @@ namespace T4._2
             //Задание 1.
             //Треугольник задан координатами своих вершин. Найти периметр и площадь треугольника.
 
-            Write("Введите координаты вершины A: \nx = ");    //Запрашиваем координаты вершин сторон треугольника
+            /*Write("Введите координаты вершины A: \nx = ");    //Запрашиваем координаты вершин сторон треугольника
             double x1 = Convert.ToDouble(Console.ReadLine());
             Write("y = ");
             double y1 = Convert.ToDouble(Console.ReadLine());
@@ -42,7 +42,19 @@ namespace T4._2
                 (p - Math.Sqrt(Math.Pow(x3 - x2, 2) + Math.Pow(y3 - y2, 2)))*
                 (p - Math.Sqrt(Math.Pow(x3 - x1, 2) + Math.Pow(y3 - y1, 2))));  //Нашли площадь
 
-            Write($"\nПлощадь треугольника ABC = {S:f2}");
+            Write($"\nПлощадь треугольника ABC = {S:f2}");*/
+
+            //Задание 2
+            //Стоимость поездки на автомобиле (ввод: s – расстояние, b – расход бензина на 100 км, c - цена бензина за 1 литр).
+
+            /*Write("Введите расстояние S = ");                 //Запрашиваем данные у пользователя
+            double S = Convert.ToDouble(Console.ReadLine());
+            Write("Введите расход бензина на 100 км B = ");
+            double B = Convert.ToDouble(Console.ReadLine());
+            Write("Введите цену бензина за 1 литр C = ");
+            double C = Convert.ToDouble(Console.ReadLine());
+
+            WriteLine($"Стоимость поездки составила {(S / 100) * B * C} руб.");*/    //Находим стоимость всей поездки
 
             ReadKey();
         }
