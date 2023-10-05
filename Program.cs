@@ -56,6 +56,25 @@ namespace T4._2
 
             WriteLine($"Стоимость поездки составила {(S / 100) * B * C} руб.");*/    //Находим стоимость всей поездки
 
+            //Задание 3
+            //Известна цена 1 кг конфет, печенья и яблок. Найти стоимость всей покупки, если купили x кг конфет, у кг печенья и z кг яблок.
+
+            /*Write("Введите цену за 1 кг конфет = ");                 //Запрашиваем данные у пользователя
+            double sweets = Convert.ToDouble(ReadLine());
+            Write("Введите цену за 1 кг печенья = ");
+            double cookies = Convert.ToDouble(ReadLine());
+            Write("Введите цену за 1 кг яблок = ");
+            double apples = Convert.ToDouble(ReadLine());
+
+            Write("\nВведите X кг конфет = ");                 //Запрашиваем данные у пользователя
+            double X = Convert.ToDouble(ReadLine());
+            Write("Введите Y кг печенья = ");
+            double Y = Convert.ToDouble(ReadLine());
+            Write("Введите Z кг яблок = ");
+            double Z = Convert.ToDouble(ReadLine());
+
+            WriteLine($"\nСтоимость всей покупки составила {(sweets * X) + (cookies * Y) + (apples * Z)} руб.");*/   //Находим стоимость всей покупки
+
             ReadKey();
         }
     }
